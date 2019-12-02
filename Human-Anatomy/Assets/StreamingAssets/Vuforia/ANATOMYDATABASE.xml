@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tongue" size="4.000000 4.000000" />
+    <ImageTarget name="lungs" size="4.000000 2.250000" />
+    <ImageTarget name="liver" size="4.000000 3.840000" />
+    <ImageTarget name="heart" size="4.000000 2.162162" />
+    <ImageTarget name="eye" size="4.000000 3.023256" />
+    <ImageTarget name="brain" size="4.000000 4.000000" />
+  </Tracking>
+</QCARConfig>
